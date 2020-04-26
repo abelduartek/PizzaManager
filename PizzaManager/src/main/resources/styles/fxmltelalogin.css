@@ -1,0 +1,41 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.achorPrincipal{
+	-fx-background-color: #64656a;
+}
+
+.paneLogin{
+	-fx-background-color: #FFFFFF;
+	-fx-border-radius: 2px;
+	
+}
+
+.buttonEntrar{
+	-fx-background-color: #2ee862;
+	-fx-border-radius: 2px;
+	-fx-border-color: #2ee862;
+}
+
+.buttonEntrar:hover{
+	-fx-background-color: #FFFFFF;
+	-fx-text-fill: #2ee862;
+}
+
+.buttonEntrar:active {
+    -fx-text-fill: #FFFFFF;
+    
+}
+.buttonSair{
+	-fx-background-color: #fd6b43;
+	-fx-border-radius: 2px;
+	-fx-border-color: #fd6b43;
+}
+
+.buttonSair:hover{
+	-fx-background-color: #FFFFFF;
+	-fx-text-fill: #fd6b43;
+}
+
+.labelEsqueciMinhaSenh:hover{
+	-fx-text-fill: #1846fe;
+}
